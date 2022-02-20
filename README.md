@@ -16,6 +16,9 @@ I am **Sveťa**, passionate self-taught full stack web (or sometimes mobile) dev
 I am also an open-source enthusiast. I learned a lot from the open-source Python community. I also have a lot of own ideas, that i want to always develop.
 
 Vist my **[Personal Blog](https://svetlanamargetova.wordpress.com/) - [My Presentations](https://www.slideshare.net/svetusmargetova)**
+  
+  <img src="https://github.com/SvetlanaM/SvetlanaM/blob/master/image.svg" style="float: right;" height="200" />
+
 
 ---
 
@@ -34,7 +37,7 @@ Vist my **[Personal Blog](https://svetlanamargetova.wordpress.com/) - [My Presen
 ---
 
 🧡 &nbsp;&nbsp;My Passions
-
+<section style="float: left;">
 - :computer: Programming
 - :coffee: Coffee and wine
 - :robot: Machine learning
@@ -42,3 +45,8 @@ Vist my **[Personal Blog](https://svetlanamargetova.wordpress.com/) - [My Presen
 - :fortune_cookie: Cooking
 - :first_quarter_moon: Universe
 - :octocat: Cat lover
+</section>
+
+
+
+
