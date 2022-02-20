@@ -28,7 +28,7 @@ Vist my **[Personal Blog](https://svetlanamargetova.wordpress.com/) - [My Presen
 
 - :desktop_computer: I’m currently working as **Software Engineer @ Kompilator**
 - :woman_health_worker: I’m looking to collaborate on eHealth projects
-- :hugs: I’m able to help you start your programmer or any other IT career. Ask me about **Web/Mobile Development**
+- :hugs: I’m able to help you start your IT career. Ask me about **Web/Mobile Development**
 - :dancing_women: I am team player always ready to help If I am able
 - 📫  How to reach me: svetlana@margetova.eu
 
