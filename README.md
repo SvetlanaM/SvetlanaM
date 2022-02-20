@@ -27,6 +27,10 @@ Vist my **[Personal Blog](https://svetlanamargetova.wordpress.com/) - [My Presen
 - :dancing_women: I am team player always ready to help If I am able
 - 📫  How to reach me: svetlana@margetova.eu
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ---
 
 🧡 &nbsp;&nbsp;My Passions
@@ -37,3 +41,4 @@ Vist my **[Personal Blog](https://svetlanamargetova.wordpress.com/) - [My Presen
 - :running_woman: Running
 - :fortune_cookie: Cooking
 - :first_quarter_moon: Universe
+- :octocat: Cat lover
