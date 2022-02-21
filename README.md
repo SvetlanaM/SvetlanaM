@@ -32,6 +32,10 @@ Vist my **[Personal Blog](https://svetlanamargetova.wordpress.com/) - [My Presen
 - :dancing_women: I am team player always ready to help If I am able
 - 📫  How to reach me: svetlana@margetova.eu
 
+<br />
+
+[![Waka Readme](https://github.com/SvetlanaM/SvetlanaM/actions/workflows/wakatime.yml/badge.svg)](https://github.com/SvetlanaM/SvetlanaM/actions/workflows/wakatime.yml)
+
 <!--START_SECTION:waka-->
 ```text
 Python       ███████████████████▒░░░░░░░░░░░░░░░░░░░░░   47.08 % 
@@ -41,7 +45,6 @@ Text         █░░░░░░░░░░░░░░░░░░░░░�
 JSON         ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
-
 
 ---
 
