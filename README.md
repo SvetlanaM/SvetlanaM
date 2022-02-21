@@ -19,7 +19,7 @@ I am **Sveťa**, passionate self-taught full stack web (or sometimes mobile) dev
 
 I am also an open-source enthusiast. I learned a lot from the open-source Python community.
 
-Vist my **[Personal Blog](https://svetlanamargetova.wordpress.com/) or [My Presentations](https://www.slideshare.net/svetusmargetova)**
+Visit my **[Personal Blog](https://svetlanamargetova.wordpress.com/) or [My Presentations](https://www.slideshare.net/svetusmargetova)**
   
 
 ---
@@ -28,8 +28,7 @@ Vist my **[Personal Blog](https://svetlanamargetova.wordpress.com/) or [My Prese
 
 - :desktop_computer: I’m currently working as **Software Engineer @ Kompilator**
 - :woman_health_worker: I’m looking to collaborate on eHealth projects
-- :hugs: I’m able to help you start your IT career. Ask me about **Web/Mobile Development**
-- :dancing_women: I am team player always ready to help If I am able
+- :hugs: I’m able to help you start your IT dream. Ask me about **Web/Mobile Development**
 - 📫  How to reach me: svetlana@margetova.eu
 
 <br />
