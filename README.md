@@ -36,13 +36,16 @@ Visit my **[Personal Blog](https://svetlanamargetova.wordpress.com/) or [My Pres
 [![Waka Readme](https://github.com/SvetlanaM/SvetlanaM/actions/workflows/wakatime.yml/badge.svg)](https://github.com/SvetlanaM/SvetlanaM/actions/workflows/wakatime.yml)
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   ███████████████████████████████████████▒░   96.19 % 
-Python       ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Markdown     ▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-CSS          ▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Text         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript                   ██████████████████████▓░░   91.21 %
+Python                       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Markdown                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+CSS                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Text                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Git Config                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
