@@ -13,7 +13,7 @@
 </a>
 <br /><br />
 
- <img src="https://github.com/SvetlanaM/SvetlanaM/blob/master/cat.svg" align="right" height="200" />
+ <img src="https://github.com/SvetlanaM/SvetlanaM/blob/master/my-cat.svg" align="right" height="200" />
 
 I am **Sveťa**, passionate self-taught full stack web (or sometimes mobile) developer at company **Kompilátor**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and safe code. I am joining data analyse, architecture, UI and coding experience during product development.
 
