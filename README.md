@@ -38,11 +38,10 @@ Visit my **[Personal Blog](https://svetlanamargetova.wordpress.com/) or [My Pres
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   ███████▓░░░░░░░░░░░░░░░░░   31.01 %
-SQL                          ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-JavaScript                   █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
-CSS                          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+TypeScript                   ██████████▓░░░░░░░░░░░░░░   42.01 %
+SQL                          █████████▒░░░░░░░░░░░░░░░   37.01 %
+CSS                          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
