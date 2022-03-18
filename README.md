@@ -18,8 +18,6 @@
 I am **Sveťa**, passionate self-taught full stack web (or sometimes mobile) developer at company **Kompilátor**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and safe code. I am joining data analyse, architecture, UI and coding experience during product development.
 
 I am also an open-source enthusiast. I learned a lot from the open-source Python community.
-
-Visit my **[Personal Blog](https://svetlanamargetova.wordpress.com/) or [My Presentations](https://www.slideshare.net/svetusmargetova)**
   
 
 ---
