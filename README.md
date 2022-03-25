@@ -36,12 +36,12 @@ I am also an open-source enthusiast. I learned a lot from the open-source Python
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   ████████████████░░░░░░░░░   64.00 %
-Python                       ███████▓░░░░░░░░░░░░░░░░░   30.78 %
-JSON                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Swift                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Markdown                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TypeScript                   ███████████████████▒░░░░░   77.34 %
+Python                       ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+JSON                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Swift                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Markdown                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
