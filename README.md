@@ -15,19 +15,25 @@
 
  <img src="https://github.com/SvetlanaM/SvetlanaM/blob/master/my-cat.svg" align="right" height="200" />
 
-I am **Sveťa**, passionate self-taught full stack web (or sometimes mobile) developer at company **Kompilátor**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and safe code. I am joining data analyse, architecture, UI and coding experience during product development.
+I am **Sveťa**, passionate full stack web (or sometimes mobile) developer at company <a href="https://kompilator.cz/" target="new">**Kompilátor**</a>. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and safe code. I am combining data analyse, architecture, UI and coding experience during product development.
 
-I am also an open-source enthusiast. I learned a lot from the open-source Python community.
+
+I am also an open-source enthusiast. I learned a lot from the open-source Python community. 
+
+**My developer path**
+
+It has started at the high school, where I created my the very first website. I studied Information Technology at Bratislava and later in Brno on Masaryk University. After a few startups, coorporations and small companies I started my own IT company. 
+
+In the future I want to focus on machine learning, neuron networks and data science in eHealth or Bio Informatics field.
   
 
 ---
 
 🧡 &nbsp;&nbsp;About Me
 
-- :desktop_computer: I’m currently working as **Software Engineer @ Kompilator**
+- :desktop_computer: I’m currently working as **Software Engineer @ Kompilátor**
 - :woman_health_worker: I’m looking to collaborate on eHealth projects
-- :hugs: I’m able to help you start your IT dream. Ask me about **Web/Mobile Development**
-- 📫  How to reach me: svetlana@margetova.eu
+- 📫  How to reach me: <a href="mailto:svetlana@kompilator.cz">svetlana@kompilator.cz</a>
 
 <br />
 
