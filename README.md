@@ -22,9 +22,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source Python
 
 **My developer path**
 
-It has started at the high school, where I created my the very first website. I studied Information Technology at Bratislava and later in Brno on Masaryk University. After a few startups, coorporations and small companies I started my own IT company. 
+It started at the high school, where I created my very first website. I studied Information Technology at Bratislava and later Computer Systems in Brno on Masaryk University. After a few startups, corporations and small companies I started my own IT company.
 
-In the future I want to focus on machine learning, neuron networks and data science in eHealth or Bio Informatics field.
+In the future I want to focus on machine learning, neuron networks and data science in the eHealth or BioInformatics field.
   
 
 ---
