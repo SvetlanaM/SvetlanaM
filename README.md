@@ -42,7 +42,7 @@ In the future I want to focus on machine learning, neuron networks and data scie
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SQL                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
