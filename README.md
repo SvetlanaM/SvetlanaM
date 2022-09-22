@@ -42,7 +42,10 @@ In the future I want to focus on machine learning, neuron networks and data scie
 <!--START_SECTION:waka-->
 
 ```text
-SQL                   █████████████████████████   100.00 %
+TypeScript                   ██████████████▓░░░░░░░░░░   58.66 %
+SQL                          █████████▓░░░░░░░░░░░░░░░   38.27 %
+CSS                          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
