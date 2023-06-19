@@ -2,17 +2,6 @@
 
 <br />
 
-<a href="https://www.instagram.com/swetus/" target="new">
-  <img align="left" alt="Swetus Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/Mandragora258" target="new">
-  <img align="left" alt="Mandragora258 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/msvetlana/" target="new">
-  <img align="left" alt="Svetlana's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br /><br />
-
  <img src="https://github.com/SvetlanaM/SvetlanaM/blob/master/my-cat.svg" align="right" height="200" />
 
 I am **Sveťa**, passionate full stack web (or sometimes mobile) developer at company <a href="https://kompilator.cz/" target="new">**Kompilátor**</a>. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and safe code. I am combining data analyse, architecture, UI and coding experience during product development.
