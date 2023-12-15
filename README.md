@@ -31,7 +31,9 @@ In the future I want to focus on machine learning, neuron networks and data scie
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python                           █████████████████████████   100.00 %
+GitIgnore file                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Text                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
