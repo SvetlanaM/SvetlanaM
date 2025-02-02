@@ -31,8 +31,11 @@ In the future I want to focus on machine learning, neuron networks and data scie
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                                       ████████████████████████▓   98.09 %
-Nginx configuration file                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Docker                                     █████████████▒░░░░░░░░░░░   53.90 %
+YAML                                       ██████████▓░░░░░░░░░░░░░░   42.39 %
+Python                                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Nginx configuration file                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+.env file                                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
