@@ -32,7 +32,7 @@ In the future I want to focus on machine learning, neuron networks and data scie
 
 ```txt
 Bash                                       ████████████▓░░░░░░░░░░░░   50.98 %
-Docker                                     ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
+Docker                                     ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
 YAML                                       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
 INI                                        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 .env file                                  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
