@@ -31,11 +31,11 @@ In the future I want to focus on machine learning, neuron networks and data scie
 <!--START_SECTION:waka-->
 
 ```txt
-Python                             █████████████░░░░░░░░░░░░   52.65 %
-Text                               █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
-TypeScript                         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-Markdown                           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Requirements.txt                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Python                             █████████████▓░░░░░░░░░░░   54.09 %
+Text                               █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
+TypeScript                         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+Markdown                           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Requirements.txt                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
